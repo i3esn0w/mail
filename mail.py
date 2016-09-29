@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-                                     #
 #-----------------------------------------------------------#
 #MailBruteforce.py version 0.10                             #
-#Author: linglingqi  (2016.07.13)                           #
+#                                                           #
 #-------Modules---------------------------------------------#
 import threadpool
 import time
